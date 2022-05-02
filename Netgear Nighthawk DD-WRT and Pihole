@@ -1,0 +1,2 @@
+Pihole takes precedence over netgear nighthawk x4 r7500v2 dd-wrt dhcp server, once enabled, it will never allow you to use the router's DHCP server, rendering some websites completely useless.
+Enable DHCPv4 rapid commit (fast address assignment) was enabled. It may be the culprit.
